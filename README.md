@@ -1,4 +1,4 @@
-# next-app-bp
+# nts
 
 ![License](https://img.shields.io/badge/license-MIT-brightgreen?style=flat)
 
