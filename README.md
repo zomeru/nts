@@ -18,6 +18,7 @@ git clone https://github.com/zomeru/nts.git <project-name>
 cd <project-name>
 rm -rf .git
 git init .
+yarn
 ```
 
 ## Usage
