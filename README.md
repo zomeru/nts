@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-brightgreen?style=flat)
 
-A NextJS with TypeScript and Styled-Components.
+A NextJS boilerplate with TypeScript and Styled-Components.
 
 | Name        | Version  |
 | :---------- | :------- |
