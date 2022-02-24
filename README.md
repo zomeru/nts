@@ -4,12 +4,12 @@
 
 A NextJS boilerplate with TypeScript and Styled-Components.
 
-| Name        | Version  |
-| :---------- | :------- |
-| ✅ Next.js  | v12.0.10 |
-| ✅ SC       | v5.3.3   |
-| ✅ Eslint   | v8.8.0   |
-| ✅ Prettier | v2.5.1   |
+| Name        | Version |
+| :---------- | :------ |
+| ✅ Next.js  | v12.1.0 |
+| ✅ SC       | v5.3.3  |
+| ✅ Eslint   | v8.8.0  |
+| ✅ Prettier | v2.5.1  |
 
 ## Installation
 
